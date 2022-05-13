@@ -1,0 +1,6 @@
+Madrid 5
+Juventus 7 
+Chelsea 3
+Arsenal 4
+Manchester 8
+
